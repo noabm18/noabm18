@@ -8,4 +8,4 @@ GoodBasis-L-2 extends the algorithm to particle sets with higher angular momentu
 
 Wilson-lines uses Monte Carlo simulation to handle a difficult quantum field theory problem.
 
-Penta-on-Light-Front is my most recent paper and used an AI solution to solve an extremely complex set of differential equations.
+Penta-on-Light-Front is my most recent paper and used an AI solution to solve a complex set of differential equations.
