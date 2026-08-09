@@ -1,4 +1,6 @@
-## Hi, I'm a physicist looking to change to software.  The name is Nicholas Miesch...
+## I'm a physicist looking to change to software.  The name is Nicholas Miesch...
+
+All files are in mathematica, this is the main language used by theoretical physicists.
 
 My biggest accomplishment in both science and coding has been the GoodBasis algorithm, which allows one to find the spin-tensor wavefunction for any number of quantum particles.  I've pinned this project.
 
