@@ -4,6 +4,8 @@ All files are mathematica .nb's, this is the main language used by theoretical p
 
 My biggest accomplishment in both science and coding has been the GoodBasis algorithm, which allows one to find the spin-tensor wavefunction for any number of quantum particles.  I've pinned this project.
 
+GoodBasis-LaTeX is the TeX code for the corresponding paper.
+
 GoodBasis-5-Quarks extends this algorithm to antiquarks as well.
 
 GoodBasis-L-2 extends the algorithm to particle sets with higher angular momentum.
