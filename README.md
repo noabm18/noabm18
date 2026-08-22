@@ -1,8 +1,7 @@
 ## I'm a physicist looking to change to software.  My name is Nicholas Miesch.
 
-All files are mathematica .nb's, this is the main language used by theoretical physicists unfortunately.
 
-My biggest accomplishment in both science and coding has been the GoodBasis algorithm, which allows one to find the spin-tensor wavefunction for any number of quantum particles.  I've pinned this project.
+My biggest accomplishment in both physics and software has been the GoodBasis algorithm, which allows one to find the spin-tensor wavefunction for any number of quantum particles.  I've pinned this project.
 
 GoodBasis-LaTeX is an example of the TeX code for the corresponding paper.
 
