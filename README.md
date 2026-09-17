@@ -1,22 +1,23 @@
-## I'm a physicist looking to change to data science.  My name is Nicholas Miesch.
+# Nicholas Miesch
 
+I'm a theoretical physicist transitioning into data science. My research and projects combine mathematical modeling, scientific computing, machine learning, and data visualization.
 
-My biggest scientific accomplishment has been the GoodBasis algorithm, which allows one to find the spin-tensor wavefunction for any number of quantum particles.  I've pinned this project.
+## Featured Projects
 
-## GoodBasis is a novel way to find the spin-tensor wavefunction for any number of quantum particles in a many-body state
+### [GoodBasis](https://github.com/noabm18/GoodBasis)
 
+GoodBasis is an algorithm for constructing spin-tensor wave functions for many-body quantum systems. This is my most significant scientific computing project and is pinned below.
 
-Mathematical modeling, linear algebra, multivariable calculus, group theory, Mathematica, LaTex
+**Tools and concepts:** Mathematica, linear algebra, group theory, multivariable calculus, mathematical modeling, LaTeX
 
+### [Wikipedia Animals](https://github.com/noabm18/wikipedia-animals)
 
+A machine-learning project that uses Wikipedia's public pageview data to classify animals by taxonomic group based on their viewing patterns over one year.
 
-## wikipedia-animals uses machine learning on Wikipedia’s public data to taxonomically classify animals from their pageview patterns over a year
+**Tools:** Python, scikit-learn, pandas, SQL, NumPy, Matplotlib, Seaborn, Jupyter
 
+### [Song Lengths](https://github.com/noabm18/song-lengths)
 
-Scikit-learn, pandas, SQL, NumPy, Matplotlib, Seaborn, Jupyter
+A machine-learning project that predicts song duration from audio features and genre metadata.
 
-
-## song-lengths guesses how long a song will be based on what it sounds like
-
-
-XGBoost, pandas, scikit-learn, NumPy, Matplotlib, Librosa, Seaborn, LLMs
+**Tools:** Python, XGBoost, pandas, scikit-learn, NumPy, Matplotlib, librosa, Seaborn, LLMs
