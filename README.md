@@ -1,14 +1,15 @@
-## I'm a physicist looking to change to software.  My name is Nicholas Miesch.
+## I'm a physicist looking to change to data science.  My name is Nicholas Miesch.
 
 
-My biggest accomplishment in both physics and software has been the GoodBasis algorithm, which allows one to find the spin-tensor wavefunction for any number of quantum particles.  I've pinned this project.
+My biggest scientific accomplishment has been the GoodBasis algorithm, which allows one to find the spin-tensor wavefunction for any number of quantum particles.  I've pinned this project.
+GoodBasis is a novel way to find the spin-tensor wavefunction for any number of quantum particles in a many-body state
+Mathematical modeling, linear algebra, multivariable calculus, group theory, Mathematica, LaTex
 
-GoodBasis-LaTeX is an example of the TeX code for the corresponding paper.
 
-GoodBasis-5-Quarks extends this algorithm to antiquarks as well.
 
-GoodBasis-L-2 extends the algorithm to particle sets with higher angular momentum.
+wikipedia-animals uses machine learning on Wikipedia’s public data to taxonomically classify animals from their pageview patterns over a year
+Scikit-learn, pandas, SQL, NumPy, Matplotlib, Seaborn, Jupyter
 
-Wilson-lines uses Monte Carlo simulation to handle a difficult quantum field theory problem.
 
-Penta-on-Light-Front is my most recent paper and used an AI solution to solve a complex set of differential equations.
+song-lengths attempts to guess how long a song will be based on what it sounds like
+XGBoost, pandas, scikit-learn, NumPy, Matplotlib, Librosa, Seaborn, LLMs
