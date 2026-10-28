@@ -8,7 +8,13 @@ I'm a theoretical physicist transitioning into data science. My research and pro
 
 GoodBasis is an algorithm for constructing spin-tensor wave functions for many-body quantum systems. This is my most significant scientific computing project and is pinned below.
 
-**Tools and concepts:** Mathematica, linear algebra, group theory, multivariable calculus, mathematical modeling, LaTeX
+**Tools and concepts:** Mathematica, quantum mechanics, linear algebra, group theory, multivariable calculus, mathematical modeling, LaTeX
+
+### [Wilson Lines](https://github.com/noabm18/Wilson-lines)
+
+Wilson lines is the first major project I worked on at Stony Brook.  The code uses Monte Carlo methods and Mathematica's multivariable calculus features to perform difficult quantum field theory calculations.
+
+**Tools and concepts:** Mathematica, quantum mechanics, quantum field theory, Monte Carlo approximation, multivariable calculus, group theory, LaTeX
 
 ### [Wikipedia Animals](https://github.com/noabm18/wikipedia-animals)
 
