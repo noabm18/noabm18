@@ -1,6 +1,6 @@
 # Nicholas Miesch
 
-I'm a theoretical physicist transitioning into data science. My research and projects here combine mathematical modeling, scientific computing, machine learning, and data visualization.
+I'm a theoretical physicist with 6 years of experience. My research and projects here combine mathematical modeling, scientific computing, machine learning, and data visualization.
 
 ## Featured Projects
 
